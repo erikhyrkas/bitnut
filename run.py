@@ -19,7 +19,7 @@ try:
 
         prompt = f"human: {user_input}\nbitnut:"
 
-        inputs = tokenizer(user_input, return_tensors="pt").to(model.device)
+        inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
         generate_inputs = {k: v for k, v in inputs.items() if k != "token_type_ids"}
 
