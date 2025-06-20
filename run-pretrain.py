@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 # Load from your local fine-tuned BitNut directory
 MODEL_DIR = "./bitnut-small"
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
+tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR, use_fast=True)
 tokenizer.pad_token = tokenizer.eos_token
 
 model = AutoModelForCausalLM.from_pretrained(MODEL_DIR).to("cuda" if torch.cuda.is_available() else "cpu")
@@ -16,13 +16,13 @@ try:
     while True:
         user_input = input("\nYou: ")
 
-        # Tokenize with BOS token if needed
         inputs = tokenizer(user_input, return_tensors="pt").to(model.device)
 
-        # Generate a response
+        generate_inputs = {k: v for k, v in inputs.items() if k != "token_type_ids"}
+
         with torch.no_grad():
             outputs = model.generate(
-                **inputs,
+                **generate_inputs,
                 max_new_tokens=128,
                 do_sample=True,
                 temperature=0.9,
