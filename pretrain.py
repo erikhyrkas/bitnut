@@ -10,7 +10,6 @@ from transformers import (
     DataCollatorForLanguageModeling
 )
 
-# Set environment variables
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "true"
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
@@ -34,9 +33,8 @@ def main():
         tokenizer.pad_token = tokenizer.eos_token
         tokenizer.pad_token_id = tokenizer.eos_token_id
 
-    print(f"✅ Tokenizer loaded: vocab_size={tokenizer.vocab_size}")
+    print(f"Tokenizer loaded: vocab_size={tokenizer.vocab_size}")
 
-    # Create BitNet config
     print(f"\nCreating BitNet configuration...")
     config = BitNetConfig(
         vocab_size=tokenizer.vocab_size,
@@ -61,11 +59,9 @@ def main():
     total_params = sum(p.numel() for p in model.parameters()) / 1e6
     print(f"BitNet model created: {total_params:.1f}M parameters")
 
-    # Move to GPU
     model = model.to("cuda")
     print("Model moved to GPU")
 
-    # Load dataset
     print(f"\nLoading dataset ({DATASET_SIZE:,} samples)...")
     raw = load_dataset("HuggingFaceTB/smollm-corpus", "cosmopedia-v2")
     split = raw["train"].select(range(DATASET_SIZE)).train_test_split(test_size=0.01, seed=42)
@@ -88,7 +84,6 @@ def main():
             "attention_mask": result["attention_mask"]
         }
 
-    # Tokenize dataset
     print("Tokenizing dataset...")
     tokenized = split.map(
         tokenize,
