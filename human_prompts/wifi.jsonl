@@ -1,0 +1,199 @@
+{"topic": "wifi", "prompt": "How does a wifi router communicate with my devices?"}
+{"topic": "wifi", "prompt": "What is the maximum distance from a router that my devices can receive a reliable wifi signal?"}
+{"topic": "wifi", "prompt": "What is the difference between wifi and cellular internet?"}
+{"topic": "wifi", "prompt": "How can I increase the speed of my wifi network?"}
+{"topic": "wifi", "prompt": "What is the purpose of a firewall on a wifi router?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot if my wifi is not working?"}
+{"topic": "wifi", "prompt": "What are the security measures I should take to protect my wifi network?"}
+{"topic": "wifi", "prompt": "Can I use a wifi range extender to extend my network's reach?"}
+{"topic": "wifi", "prompt": "How does wifi encryption work?"}
+{"topic": "wifi", "prompt": "What happens if I change my wifi password?"}
+{"topic": "wifi", "prompt": "What is the difference between Wi-Fi 1 and Wi-Fi 6?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi 6 handle more simultaneous connections than previous versions?"}
+{"topic": "wifi", "prompt": "What's the difference between public Wi-Fi and a private network?"}
+{"topic": "wifi", "prompt": "Can Wi-Fi affect other electronic devices and why?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi encryption work and what are its types?"}
+{"topic": "wifi", "prompt": "How can I extend my Wi-Fi signal?"}
+{"topic": "wifi", "prompt": "How does the Wi-Fi speed differ from the Ethernet speed?"}
+{"topic": "wifi", "prompt": "What is the purpose of a DHCP server in a network?"}
+{"topic": "wifi", "prompt": "How does a router's signal strength affect the internet speed?"}
+{"topic": "wifi", "prompt": "Can I use Wi-Fi for power purposes and why?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi work and what is the difference between 2.4 GHz and 5 GHz frequency bands?"}
+{"topic": "wifi", "prompt": "What factors can affect the speed of my Wi-Fi network?"}
+{"topic": "wifi", "prompt": "How can I change the Wi-Fi password and what are the best practices for secure password creation?"}
+{"topic": "wifi", "prompt": "What is the best Wi-Fi router brand for a home network?"}
+{"topic": "wifi", "prompt": "What is the best way to troubleshoot a Wi-Fi network that's not connecting?"}
+{"topic": "wifi", "prompt": "How can I improve the Wi-Fi range and signal strength in my house?"}
+{"topic": "wifi", "prompt": "What are the best Wi-Fi security protocols and how do they differ?"}
+{"topic": "wifi", "prompt": "What is the impact of Wi-Fi on my mobile data plan?"}
+{"topic": "wifi", "prompt": "What are the steps to set up a guest network in my router?"}
+{"topic": "wifi", "prompt": "Can I extend my Wi-Fi network with a Wi-Fi extender, and how does it work?"}
+{"topic": "wifi", "prompt": "\"Can you explain how Wi-Fi works in a cellular network?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between Wi-Fi 4 and Wi-Fi 6 in terms of speed and efficiency?\""}
+{"topic": "wifi", "prompt": "\"How does the Wi-Fi router's signal strength affect the connectivity of devices?\""}
+{"topic": "wifi", "prompt": "\"What is the purpose of a Wi-Fi Extender or Range Extender?\""}
+{"topic": "wifi", "prompt": "\"How do I know if my Wi-Fi network is secure?\""}
+{"topic": "wifi", "prompt": "\"What is the significance of a dual-band Wi-Fi router?\""}
+{"topic": "wifi", "prompt": "\"Can Wi-Fi signal be blocked or interfered with?\""}
+{"topic": "wifi", "prompt": "\"What is the impact of too many devices connected to the same Wi-Fi network?\""}
+{"topic": "wifi", "prompt": "\"How can I troubleshoot slow Wi-Fi speeds?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between Wi-Fi 5 and Wi-Fi 6, and is Wi-Fi 6 better than Wi-Fi 5?\""}
+{"topic": "wifi", "prompt": "\"How can I improve my WiFi speed?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between a wired and wireless router?\""}
+{"topic": "wifi", "prompt": "\"How do I change the WiFi password?\""}
+{"topic": "wifi", "prompt": "\"What are the signs of a weak WiFi signal?\""}
+{"topic": "wifi", "prompt": "\"Can I boost my WiFi signal using a WiFi extender?\""}
+{"topic": "wifi", "prompt": "\"How much WiFi bandwidth do I need for my online activities?\""}
+{"topic": "wifi", "prompt": "\"What is the impact of too many connected devices on WiFi speed?\""}
+{"topic": "wifi", "prompt": "\"How can I fix a dropped WiFi signal?\""}
+{"topic": "wifi", "prompt": "\"What is a WiFi channel and why is it important?\""}
+{"topic": "wifi", "prompt": "\"How do I know if my router is compatible with my devices?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between WPA2 and WPA3 encryption protocols in Wi-Fi security?\""}
+{"topic": "wifi", "prompt": "\"Can I run multiple devices on the same Wi-Fi network without any issues?\""}
+{"topic": "wifi", "prompt": "\"What are the common causes of poor Wi-Fi signal strength?\""}
+{"topic": "wifi", "prompt": "\"How does Wi-Fi affect the battery life of mobile devices?\""}
+{"topic": "wifi", "prompt": "\"What is the maximum range of a Wi-Fi network?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between 2.4 GHz and 5 GHz Wi-Fi frequencies?\""}
+{"topic": "wifi", "prompt": "\"Can a Wi-Fi network be set to broadcast its SSID to all devices?\""}
+{"topic": "wifi", "prompt": "\"How can I check the signal strength of my Wi-Fi network?\""}
+{"topic": "wifi", "prompt": "\"What is a Wi-Fi password and why is it necessary?\""}
+{"topic": "wifi", "prompt": "\"Can Wi-Fi cause any interference with other electronic devices?\""}
+{"topic": "wifi", "prompt": "How does WiFi work in terms of signal transmission and reception?"}
+{"topic": "wifi", "prompt": "What is the difference between a 5GHz and a 2.4GHz Wi-Fi network?"}
+{"topic": "wifi", "prompt": "How does the speed of my Wi-Fi affect my daily productivity?"}
+{"topic": "wifi", "prompt": "What are the potential security risks associated with unsecured Wi-Fi networks?"}
+{"topic": "wifi", "prompt": "How can I upgrade my router to improve my Wi-Fi signal?"}
+{"topic": "wifi", "prompt": "How does the number of connected devices affect my internet speed?"}
+{"topic": "wifi", "prompt": "What's the best location for setting up a Wi-Fi router in my home or office?"}
+{"topic": "wifi", "prompt": "How does the strength of a Wi-Fi signal change with distance from the router?"}
+{"topic": "wifi", "prompt": "What is the role of a WiFi network in a home network topology?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot slow Wi-Fi speeds?"}
+{"topic": "wifi", "prompt": "How do I know if my Wi-Fi router is connected to the internet?"}
+{"topic": "wifi", "prompt": "Can I increase my Wi-Fi bandwidth for faster internet?"}
+{"topic": "wifi", "prompt": "What is the purpose of a Wi-Fi password and how should I set it?"}
+{"topic": "wifi", "prompt": "How can I change the SSID (network name) of my Wi-Fi network?"}
+{"topic": "wifi", "prompt": "What is the difference between public, private, and shared Wi-Fi networks?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot a weak Wi-Fi signal?"}
+{"topic": "wifi", "prompt": "How do I connect multiple devices to the same Wi-Fi network?"}
+{"topic": "wifi", "prompt": "Can I boost the Wi-Fi signal from a distance using a Wi-Fi extender?"}
+{"topic": "wifi", "prompt": "What is the best way to secure my Wi-Fi network from potential cyber threats?"}
+{"topic": "wifi", "prompt": "How does the speed of my WiFi connection affect the performance of my online activities, such as streaming or gaming?"}
+{"topic": "wifi", "prompt": "What is the best type of router to purchase for my home, considering factors like budget, size of the house, and number of devices I want to connect?"}
+{"topic": "wifi", "prompt": "How can I improve the Wi-Fi signal in my house where it's weak or poor in certain areas?"}
+{"topic": "wifi", "prompt": "What are the main differences between Wi-Fi 1, Wi-Fi 2, and Wi-Fi 6?"}
+{"topic": "wifi", "prompt": "Can I boost the Wi-Fi signal in my car without needing to install additional equipment?"}
+{"topic": "wifi", "prompt": "How can I secure my Wi-Fi network to protect it from hackers?"}
+{"topic": "wifi", "prompt": "What happens if I use too many devices simultaneously on my Wi-Fi network?"}
+{"topic": "wifi", "prompt": "How does the range of a Wi-Fi router change as I move further from it?"}
+{"topic": "wifi", "prompt": "Is there a way to extend the range of my Wi-Fi network without increasing the physical size of the router?"}
+{"topic": "wifi", "prompt": "How does the number of connected devices affect the bandwidth usage on my Wi-Fi network?"}
+{"topic": "wifi", "prompt": "What is the difference between 802.11n, 802.11ac, and 802.11ax?"}
+{"topic": "wifi", "prompt": "How can I upgrade my router to support the latest Wi-Fi standards?"}
+{"topic": "wifi", "prompt": "Can Wi-Fi be affected by interference from other electronic devices? If yes, how can I minimize it?"}
+{"topic": "wifi", "prompt": "What is the range of my Wi-Fi signal, and how can I extend it?"}
+{"topic": "wifi", "prompt": "How do I know if my Wi-Fi connection is secure?"}
+{"topic": "wifi", "prompt": "Can I improve Wi-Fi speed by changing the channel on my router?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot Wi-Fi connection issues, such as slow speeds or no connection?"}
+{"topic": "wifi", "prompt": "How much power should my router consume, and what can cause it to consume more power than expected?"}
+{"topic": "wifi", "prompt": "What is the role of Wi-Fi Protected Access (WPA) and WPA2 in Wi-Fi security?"}
+{"topic": "wifi", "prompt": "Can I connect multiple devices to the same Wi-Fi network without compromising security?"}
+{"topic": "wifi", "prompt": "\"How can I connect my new printer to the wifi network?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between wifi 1.0, 2.0, 5.0, and 6.0?\""}
+{"topic": "wifi", "prompt": "\"How do I troubleshoot internet connection issues on my computer?\""}
+{"topic": "wifi", "prompt": "\"What is the maximum range of a wifi signal in a typical home?\""}
+{"topic": "wifi", "prompt": "\"Can a wifi signal penetrate through walls?\""}
+{"topic": "wifi", "prompt": "\"How do I change the wifi password of my router?\""}
+{"topic": "wifi", "prompt": "\"What are the common reasons for a wifi connection to drop out?\""}
+{"topic": "wifi", "prompt": "\"How do I set up parental controls on a wifi network?\""}
+{"topic": "wifi", "prompt": "\"What is the difference between static and dynamic dns?\""}
+{"topic": "wifi", "prompt": "\"How do I upgrade my wifi router to support the latest version?\""}
+{"topic": "wifi", "prompt": "How can I check if my WiFi signal is strong at my home location?"}
+{"topic": "wifi", "prompt": "How can I change the channel on my WiFi router to avoid interference?"}
+{"topic": "wifi", "prompt": "What are the common signs of a slow WiFi connection and what can cause them?"}
+{"topic": "wifi", "prompt": "What is the difference between WiFi 5 and WiFi 6?"}
+{"topic": "wifi", "prompt": "How does the number of devices connected to my WiFi network affect its speed and stability?"}
+{"topic": "wifi", "prompt": "How can I upgrade my WiFi router to the latest model?"}
+{"topic": "wifi", "prompt": "What are the benefits of dual-band WiFi routers?"}
+{"topic": "wifi", "prompt": "Can I use a WiFi range extender to improve my WiFi signal in a large house?"}
+{"topic": "wifi", "prompt": "What are the security features built into WiFi routers?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot a WiFi connection that keeps dropping every few minutes?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi signal strength usually affect my internet speed?"}
+{"topic": "wifi", "prompt": "Can you explain the difference between WPA3 and WPA2 in terms of security?"}
+{"topic": "wifi", "prompt": "What is the difference between a router and a modem in terms of function and location?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot a Wi-Fi connection that's constantly dropping?"}
+{"topic": "wifi", "prompt": "What is the maximum range of a Wi-Fi signal in a typical home?"}
+{"topic": "wifi", "prompt": "What is the impact of Wi-Fi interference on my internet connection?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi encryption (like WPA2) protect my data?"}
+{"topic": "wifi", "prompt": "What are the potential effects of too many devices connected to the same Wi-Fi network?"}
+{"topic": "wifi", "prompt": "Can you describe the process of changing the Wi-Fi password on a router?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi compare to mobile data in terms of speed and coverage?"}
+{"topic": "wifi", "prompt": "What is the difference between Wi-Fi 1 and Wi-Fi 6 in terms of speed and range?"}
+{"topic": "wifi", "prompt": "How does the Wi-Fi signal strength affect the quality of internet connection?"}
+{"topic": "wifi", "prompt": "What is Wi-Fi interference and how can it be minimized?"}
+{"topic": "wifi", "prompt": "Can you explain the process of setting up a new Wi-Fi network at home?"}
+{"topic": "wifi", "prompt": "What is the purpose of a Wi-Fi password or passphrase?"}
+{"topic": "wifi", "prompt": "How does the quality of a Wi-Fi router affect internet speed?"}
+{"topic": "wifi", "prompt": "What are the steps to troubleshoot a Wi-Fi connection that is not working?"}
+{"topic": "wifi", "prompt": "How do I change the Wi-Fi channel on my router?"}
+{"topic": "wifi", "prompt": "What is the maximum range of a Wi-Fi signal in a house?"}
+{"topic": "wifi", "prompt": "How does the speed of a Wi-Fi connection affect the performance of online activities like video streaming or gaming?"}
+{"topic": "wifi", "prompt": "What does the term'ssid'stand for in Wi-Fi?"}
+{"topic": "wifi", "prompt": "How do I connect my computer to a WiFi network?"}
+{"topic": "wifi", "prompt": "What is the difference between 'WPA' and 'WPA2' encryption?"}
+{"topic": "wifi", "prompt": "What is the purpose of a WiFi router?"}
+{"topic": "wifi", "prompt": "What is a'subnet mask' and how does it affect my connection?"}
+{"topic": "wifi", "prompt": "Can I change the SSID on my WiFi router for security reasons?"}
+{"topic": "wifi", "prompt": "What is the difference between 'bandwidth' and'speed' in the context of WiFi?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot a slow WiFi connection?"}
+{"topic": "wifi", "prompt": "What are the advantages of using a dual-band WiFi router?"}
+{"topic": "wifi", "prompt": "How can I extend my WiFi range to cover a larger area?"}
+{"topic": "wifi", "prompt": "What are the common causes of weak Wi-Fi signals in my home or office?"}
+{"topic": "wifi", "prompt": "How can I improve the range of my Wi-Fi signal?"}
+{"topic": "wifi", "prompt": "What is the difference between Wi-Fi 1.0, 11.0, and 6.0?"}
+{"topic": "wifi", "prompt": "What are the advantages of using a mesh Wi-Fi system over a traditional setup?"}
+{"topic": "wifi", "prompt": "What are the common issues I can face with Wi-Fi connectivity and how can I troubleshoot them?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi security work and what are the common threats?"}
+{"topic": "wifi", "prompt": "What is the impact of multiple devices connected to the same Wi-Fi network?"}
+{"topic": "wifi", "prompt": "What is the difference between WPA2 and WPA3 encryption in Wi-Fi security?"}
+{"topic": "wifi", "prompt": "How does Wi-Fi speed affect my online activities, such as streaming or gaming?"}
+{"topic": "wifi", "prompt": "How can I change the Wi-Fi password on my router and what are the implications of changing it?"}
+{"topic": "wifi", "prompt": "What is the difference between WiFi 1.0, 2.0, and 5.0?"}
+{"topic": "wifi", "prompt": "How do I check the signal strength of my WiFi?"}
+{"topic": "wifi", "prompt": "What causes WiFi interference and how can I avoid it?"}
+{"topic": "wifi", "prompt": "How can I speed up my WiFi connection?"}
+{"topic": "wifi", "prompt": "What is the difference between a wireless router and a WiFi adapter?"}
+{"topic": "wifi", "prompt": "How does WiFi encryption work and why is it important?"}
+{"topic": "wifi", "prompt": "What is the purpose of DHCP in WiFi?"}
+{"topic": "wifi", "prompt": "Can I use a WiFi extender to boost my network coverage?"}
+{"topic": "wifi", "prompt": "What is the impact of too many connected devices on WiFi speed?"}
+{"topic": "wifi", "prompt": "How do I change the WiFi password on my router?"}
+{"topic": "wifi", "prompt": "What is the purpose of a WiFi network and how does it function in a home or office setting?"}
+{"topic": "wifi", "prompt": "How can I extend my WiFi range to cover a larger area without compromising on speed?"}
+{"topic": "wifi", "prompt": "What are the benefits of using a WiFi extender or WiFi mesh system compared to traditional WiFi routers?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot if my WiFi is slow or not connecting properly?"}
+{"topic": "wifi", "prompt": "What is the difference between Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax)?"}
+{"topic": "wifi", "prompt": "How can I ensure my WiFi is secure and safe from cyber threats?"}
+{"topic": "wifi", "prompt": "What does the term 'bandwidth' mean in relation to WiFi and how does it affect internet speed?"}
+{"topic": "wifi", "prompt": "How can I check if my devices are connected to the right WiFi network?"}
+{"topic": "wifi", "prompt": "What is the difference between WiFi 6 and WiFi 7? What benefits do they bring?"}
+{"topic": "wifi", "prompt": "What are the potential issues if my WiFi router is located in a crowded or obstructed area and how can I resolve them?"}
+{"topic": "wifi", "prompt": "What's the difference between 5 GHz and 2.4 GHz Wi-Fi frequencies?"}
+{"topic": "wifi", "prompt": "How can I change my Wi-Fi password?"}
+{"topic": "wifi", "prompt": "What is a Wi-Fi password and why is it important?"}
+{"topic": "wifi", "prompt": "How many Wi-Fi channels should I use in my router?"}
+{"topic": "wifi", "prompt": "What does the term \"Wi-Fi range\" mean?"}
+{"topic": "wifi", "prompt": "Can I use Wi-Fi in all locations? Are there places where it's not available?"}
+{"topic": "wifi", "prompt": "What is the purpose of a firewall in relation to Wi-Fi?"}
+{"topic": "wifi", "prompt": "How do I troubleshoot a Wi-Fi connection that keeps losing its signal?"}
+{"topic": "wifi", "prompt": "What are the potential effects of a weak Wi-Fi signal on my device's performance?"}
+{"topic": "wifi", "prompt": "How can I improve my Wi-Fi's speed?"}
+{"topic": "wifi", "prompt": "What is the difference between public and private wifi networks?"}
+{"topic": "wifi", "prompt": "How does wifi encryption (like WPA2) work to secure my internet?"}
+{"topic": "wifi", "prompt": "What is the difference between 3G, 4G, and 5G networks?"}
+{"topic": "wifi", "prompt": "How can I improve the speed of my wifi network?"}
+{"topic": "wifi", "prompt": "What is the best range for a wifi router in a home?"}
+{"topic": "wifi", "prompt": "How does signal strength affect the performance of my wifi?"}
+{"topic": "wifi", "prompt": "What is the difference between Wi-Fi Direct and regular Wi-Fi?"}
+{"topic": "wifi", "prompt": "What's the purpose of a guest network in a router?"}
+{"topic": "wifi", "prompt": "How can I troubleshoot internet connection problems?"}
+{"topic": "wifi", "prompt": "How does wifi frequency overlap work in a shared network?"}

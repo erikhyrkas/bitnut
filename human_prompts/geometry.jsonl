@@ -1,0 +1,192 @@
+{"topic": "geometry", "prompt": "What is the Pythagorean Theorem and how is it used in real-world applications?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a circle and a sphere in terms of their geometric properties?"}
+{"topic": "geometry", "prompt": "What is the concept of parallel lines and how are they defined in geometry?"}
+{"topic": "geometry", "prompt": "How does the concept of an obtuse angle differ from an acute angle?"}
+{"topic": "geometry", "prompt": "What is a triangle and what are its properties?"}
+{"topic": "geometry", "prompt": "Can you explain what a polygon is and provide examples of polygons that are common in everyday life?"}
+{"topic": "geometry", "prompt": "How does the concept of symmetry work in geometry and can you provide examples?"}
+{"topic": "geometry", "prompt": "What is the meaning of a plane in geometry and how is it related to other geometric shapes?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of congruence in geometry and how to identify congruent figures?"}
+{"topic": "geometry", "prompt": "How does the concept of a solid in geometry differ from a plane or a line?"}
+{"topic": "geometry", "prompt": "How do I calculate the area of a circle?"}
+{"topic": "geometry", "prompt": "What is the formula for the volume of a cube?"}
+{"topic": "geometry", "prompt": "How can I find the distance between two points in a 2D plane?"}
+{"topic": "geometry", "prompt": "What is the formula for the circumference of a circle?"}
+{"topic": "geometry", "prompt": "How do I find the area of a triangle when I know two of its sides and the included angle?"}
+{"topic": "geometry", "prompt": "What is the formula for finding the area of a triangle when you know the base and height?"}
+{"topic": "geometry", "prompt": "How do I calculate the volume of a sphere?"}
+{"topic": "geometry", "prompt": "What is the formula for finding the surface area of a cylinder?"}
+{"topic": "geometry", "prompt": "How do I find the equation of a line in the coordinate plane?"}
+{"topic": "geometry", "prompt": "What is the formula for finding the intersection points of two lines?"}
+{"topic": "geometry", "prompt": "What is the formula to calculate the volume of a sphere?"}
+{"topic": "geometry", "prompt": "How do you find the midpoint of a line segment?"}
+{"topic": "geometry", "prompt": "What is the Pythagorean theorem and how is it applied in geometry?"}
+{"topic": "geometry", "prompt": "How do you determine the area of a triangle given its base and height?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of similarity in geometric shapes?"}
+{"topic": "geometry", "prompt": "What is the difference between a polygon and a polyhedron?"}
+{"topic": "geometry", "prompt": "Can you describe the properties of a parallelogram?"}
+{"topic": "geometry", "prompt": "How do you find the angle between two intersecting lines?"}
+{"topic": "geometry", "prompt": "How do you determine if a point is inside a triangle?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean theorem apply in real-world situations, beyond just simple right-angled triangles?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a sphere in three-dimensional space? What is its significance in geometry?"}
+{"topic": "geometry", "prompt": "What is the difference between a convex polygon and a concave polygon? Can you provide an example of each?"}
+{"topic": "geometry", "prompt": "What is the concept of symmetry in geometry and how does it apply to different geometric shapes?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a plane in geometry and how it can be used to describe real-world objects?"}
+{"topic": "geometry", "prompt": "What is a right angle in geometry and how is it different from a reflex angle? Can you provide an example of each?"}
+{"topic": "geometry", "prompt": "How does the concept of congruence in geometry help in real-life applications like architecture or engineering?"}
+{"topic": "geometry", "prompt": "What are the properties of a circle in geometry and how are they different from those of other shapes?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a fractal in geometry and how it differs from a traditional geometric shape?"}
+{"topic": "geometry", "prompt": "How does the concept of tessellation work in geometry? Can you provide an example of a tessellation in real life?"}
+{"topic": "geometry", "prompt": "How do the angles in a triangle add up to 180 degrees?"}
+{"topic": "geometry", "prompt": "What is the difference between a circle, an ellipse, and a parabola?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a plane in three-dimensional geometry?"}
+{"topic": "geometry", "prompt": "What is the circumference of a circle and how is it calculated?"}
+{"topic": "geometry", "prompt": "How does the concept of perpendicular lines relate to geometry?"}
+{"topic": "geometry", "prompt": "What is the definition and application of a tangent in geometry?"}
+{"topic": "geometry", "prompt": "Can you describe the properties of a sphere in three-dimensional geometry?"}
+{"topic": "geometry", "prompt": "How do vectors work in the context of geometry?"}
+{"topic": "geometry", "prompt": "What are the key differences between a cone and a pyramid?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a sphere in geometry?"}
+{"topic": "geometry", "prompt": "How do you calculate the volume of a cube?"}
+{"topic": "geometry", "prompt": "What is the difference between an acute angle and an obtuse angle?"}
+{"topic": "geometry", "prompt": "Can you describe the properties of a rectangle?"}
+{"topic": "geometry", "prompt": "What is the Pythagorean theorem and how is it used?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of congruent shapes?"}
+{"topic": "geometry", "prompt": "How can you determine the area of a circle?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of symmetry in geometry?"}
+{"topic": "geometry", "prompt": "What are the properties of a regular polygon?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a centroid in geometry?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean theorem apply to the diagonals of a rectangle?"}
+{"topic": "geometry", "prompt": "What is the geometric meaning of a tangent line to a circle?"}
+{"topic": "geometry", "prompt": "How can I use the distance formula to find the length of a side of a triangle if only the length of the hypotenuse and the angle opposite the hypotenuse are known?"}
+{"topic": "geometry", "prompt": "What is the relationship between the sides and angles in a right triangle, and how can this be used to prove trigonometric identities?"}
+{"topic": "geometry", "prompt": "How do I find the area of a trapezoid, and how does this relate to the average of the bases times the height?"}
+{"topic": "geometry", "prompt": "What are the properties of a sphere in three-dimensional space, and how do these properties relate to the equations of motion?"}
+{"topic": "geometry", "prompt": "How do the properties of a regular polygon relate to its perimeter and area?"}
+{"topic": "geometry", "prompt": "What is the significance of Euler's formula in graph theory and geometry?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a centroid in a triangle and its significance in geometry?"}
+{"topic": "geometry", "prompt": "What is the relationship between the angles in a quadrilateral, and how does this impact the properties of that quadrilateral?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean Theorem apply to finding the distance between two points in a Cartesian plane?"}
+{"topic": "geometry", "prompt": "What is the difference between a regular polygon and a non-regular polygon?"}
+{"topic": "geometry", "prompt": "What is the definition of a circle and how can you calculate its area?"}
+{"topic": "geometry", "prompt": "How does the concept of circumference relate to the concept of area in a circle?"}
+{"topic": "geometry", "prompt": "What is the formula to calculate the volume of a sphere and how is it derived?"}
+{"topic": "geometry", "prompt": "How do parallel lines and transversals interact in Euclidean geometry?"}
+{"topic": "geometry", "prompt": "What is the significance of a median line in a triangle, and how is it used?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a right triangle and a right angle?"}
+{"topic": "geometry", "prompt": "How does the concept of congruence in geometry differ from similarity?"}
+{"topic": "geometry", "prompt": "How does the concept of congruent shapes relate to the properties of similar figures in geometry?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a sphere and a cylinder in the context of three-dimensional geometry?"}
+{"topic": "geometry", "prompt": "What are the characteristics of a regular polygon in geometry and how does it relate to the concept of symmetry?"}
+{"topic": "geometry", "prompt": "How does the concept of distance and angle measurement work in Euclidean geometry?"}
+{"topic": "geometry", "prompt": "Can you provide an example of a non-Euclidean geometric space, and explain its properties?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean theorem apply in three-dimensional geometry?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a right angle in the context of different types of geometry?"}
+{"topic": "geometry", "prompt": "How is a circle defined geometrically and how does it differ from a ellipse?"}
+{"topic": "geometry", "prompt": "How does the concept of vector addition in geometry work?"}
+{"topic": "geometry", "prompt": "Can you explain how the concept of a plane in Euclidean geometry differs from its concept in other geometric systems?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean theorem apply to finding the distance between two points in a coordinate system?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a circle, ellipse, and hyperbola?"}
+{"topic": "geometry", "prompt": "How does the concept of curvature in differential geometry apply to the surface of a sphere?"}
+{"topic": "geometry", "prompt": "What is the significance of the Gaussian curvature in three-dimensional space?"}
+{"topic": "geometry", "prompt": "How do the properties of Platonic solids apply to their geometric properties?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of congruence and similarity in geometry?"}
+{"topic": "geometry", "prompt": "What is the relationship between a tangent line and the radius of a circle at a given point?"}
+{"topic": "geometry", "prompt": "How does the concept of a centroid in geometry relate to the average point of a shape?"}
+{"topic": "geometry", "prompt": "Can you explain the properties and applications of an oblique pyramid?"}
+{"topic": "geometry", "prompt": "How does the concept of an orthocentric system apply in geometry?"}
+{"topic": "geometry", "prompt": "What are the different types of triangles and how do their properties vary?"}
+{"topic": "geometry", "prompt": "Can you explain the Pythagorean theorem and its significance in geometry?"}
+{"topic": "geometry", "prompt": "How do angles work in geometry? What are acute, obtuse, and right angles?"}
+{"topic": "geometry", "prompt": "What is the difference between 3D and 2D geometry? Can you explain with examples?"}
+{"topic": "geometry", "prompt": "How do circles and spheres relate to geometry? Are they considered two-dimensional or three-dimensional shapes?"}
+{"topic": "geometry", "prompt": "How do you calculate the area and volume of different geometric shapes like triangles, circles, and cubes?"}
+{"topic": "geometry", "prompt": "What is the difference between a plane and a line in geometry? Can you provide examples?"}
+{"topic": "geometry", "prompt": "Can you describe the properties of parallel lines and how they interact with each other in geometric shapes?"}
+{"topic": "geometry", "prompt": "How do the properties of polygons relate to each other? Can you explain with examples?"}
+{"topic": "geometry", "prompt": "How does the Pythagorean Theorem apply to real-life situations, such as architecture or engineering?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a sphere and its importance in geometry?"}
+{"topic": "geometry", "prompt": "How do trigonometric functions work in finding the angles and sides of a triangle?"}
+{"topic": "geometry", "prompt": "How does the concept of parallel lines work in the context of geometry?"}
+{"topic": "geometry", "prompt": "What is the significance of the Fibonacci sequence in geometric shapes?"}
+{"topic": "geometry", "prompt": "How does the concept of a right-angled triangle apply in real-world scenarios?"}
+{"topic": "geometry", "prompt": "How does the concept of a cube or rectangular prism apply in real-world situations?"}
+{"topic": "geometry", "prompt": "How does the concept of congruence and similarity relate to each other in geometry?"}
+{"topic": "geometry", "prompt": "Can you explain how the concept of a circle is used in various fields like physics and computer science?"}
+{"topic": "geometry", "prompt": "What is the definition of a sphere in geometry and where is it commonly found in real life?"}
+{"topic": "geometry", "prompt": "What are the properties of a triangle and how do they change with the number of sides?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a parallelogram and how can you determine if a quadrilateral is a parallelogram?"}
+{"topic": "geometry", "prompt": "What is the Pythagorean theorem and how is it used to find the length of sides in right-angled triangles?"}
+{"topic": "geometry", "prompt": "What is the difference between an acute angle and an obtuse angle in geometry?"}
+{"topic": "geometry", "prompt": "Can you describe the properties of a line in geometry and differentiate between a line and a segment?"}
+{"topic": "geometry", "prompt": "What is the area of a circle and how is it calculated?"}
+{"topic": "geometry", "prompt": "How can a person measure the perimeter of a polygon accurately?"}
+{"topic": "geometry", "prompt": "What is the difference between an inscribed and a circumscribed circle in a polygon?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of an ellipse and how it is different from a circle?"}
+{"topic": "geometry", "prompt": "What is the significance of the Pythagorean Theorem in geometry?"}
+{"topic": "geometry", "prompt": "How does the concept of congruent triangles apply in practical situations?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a line segment and a line in geometry?"}
+{"topic": "geometry", "prompt": "How does the concept of a plane differ from a point or a line in geometry?"}
+{"topic": "geometry", "prompt": "What is the definition of a perpendicular line in geometry?"}
+{"topic": "geometry", "prompt": "How can the concept of symmetry be applied in various geometric shapes?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a regular polygon and an irregular polygon?"}
+{"topic": "geometry", "prompt": "How does the concept of dilation work in geometry?"}
+{"topic": "geometry", "prompt": "Can you provide an example of a real-life application of the concept of congruent triangles?"}
+{"topic": "geometry", "prompt": "What are the properties of an ellipse in geometry, and how do they differ from those of a circle?"}
+{"topic": "geometry", "prompt": "What is the difference between a sphere and a cube in geometry?"}
+{"topic": "geometry", "prompt": "What is an orthocenter and how is it calculated in a triangle?"}
+{"topic": "geometry", "prompt": "What is the formula for the volume of a cylinder and how is it calculated?"}
+{"topic": "geometry", "prompt": "How can a right triangle be used to find the lengths of the sides of a triangle given only one side?"}
+{"topic": "geometry", "prompt": "What is a line of symmetry and how many does an equilateral triangle have?"}
+{"topic": "geometry", "prompt": "What is the difference between a tangent and a secant line in a circle?"}
+{"topic": "geometry", "prompt": "How do I calculate the area of a parallelogram and what is its formula?"}
+{"topic": "geometry", "prompt": "What is the definition of an angle and how is it measured?"}
+{"topic": "geometry", "prompt": "How can I calculate the circumference and area of a rectangle?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between a line and a plane in geometry?"}
+{"topic": "geometry", "prompt": "What is the Pythagorean theorem and how does it apply to real-world problems?"}
+{"topic": "geometry", "prompt": "How does the concept of angles work in geometry, and why is it important?"}
+{"topic": "geometry", "prompt": "What are the different types of angles and what are their properties?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a perpendicular line and its significance in geometry?"}
+{"topic": "geometry", "prompt": "What is the difference between a circle and an ellipse, and in what real-life situations might they appear?"}
+{"topic": "geometry", "prompt": "How do we use triangles to calculate areas and perimeters, and why are they so important in geometry?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of congruence in geometry?"}
+{"topic": "geometry", "prompt": "How do circles and spheres differ in geometry and what are their applications?"}
+{"topic": "geometry", "prompt": "How does the concept of symmetry apply in geometry and what are some of its real-world applications?"}
+{"topic": "geometry", "prompt": "\"Can you explain the difference between convex and concave polygons?\""}
+{"topic": "geometry", "prompt": "\"How does the Pythagorean theorem apply in real-life situations?\""}
+{"topic": "geometry", "prompt": "\"What is a sphere, and how does it differ from other three-dimensional shapes?\""}
+{"topic": "geometry", "prompt": "\"How do the concepts of symmetry and transformations relate in geometry?\""}
+{"topic": "geometry", "prompt": "\"What is the difference between a regular and an irregular polygon?\""}
+{"topic": "geometry", "prompt": "\"How does the concept of Euler's formula apply to polyhedra?\""}
+{"topic": "geometry", "prompt": "\"What are the properties of a prism and how are they different from a pyramid?\""}
+{"topic": "geometry", "prompt": "\"How is the concept of congruence used in geometry?\""}
+{"topic": "geometry", "prompt": "\"What are the properties of a circle and how do they apply to the concept of circumference?\""}
+{"topic": "geometry", "prompt": "\"How does the concept of a tetrahedron or a triangular prism work in three-dimensional space?\""}
+{"topic": "geometry", "prompt": "How does the Pythagorean theorem apply to real-world situations?"}
+{"topic": "geometry", "prompt": "How do you calculate the area of a rectangle?"}
+{"topic": "geometry", "prompt": "Can you explain the difference between acute and obtuse angles?"}
+{"topic": "geometry", "prompt": "What is the circumference and how is it calculated for a circle?"}
+{"topic": "geometry", "prompt": "How does the concept of a perpendicular line apply in real-world scenarios?"}
+{"topic": "geometry", "prompt": "What are some real-world applications of the concept of parallel lines?"}
+{"topic": "geometry", "prompt": "How do you calculate the distance between two points in a three-dimensional space?"}
+{"topic": "geometry", "prompt": "How is the concept of symmetry applied in geometry?"}
+{"topic": "geometry", "prompt": "How can the formula for the volume of a sphere be used in real-world applications?"}
+{"topic": "geometry", "prompt": "What is the relationship between the area and perimeter of a rectangle and how can this be applied in real-world situations?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a right angle in detail?"}
+{"topic": "geometry", "prompt": "How is a line segment different from a line?"}
+{"topic": "geometry", "prompt": "What is the difference between a plane and a polygon?"}
+{"topic": "geometry", "prompt": "Can you provide an example of a non-Euclidean geometry?"}
+{"topic": "geometry", "prompt": "Can you describe what a sphere is in the context of geometry?"}
+{"topic": "geometry", "prompt": "What is the significance of the Pythagorean theorem?"}
+{"topic": "geometry", "prompt": "How do you calculate the perimeter of a circle?"}
+{"topic": "geometry", "prompt": "What is the difference between a tangent and a secant line?"}
+{"topic": "geometry", "prompt": "How does the concept of symmetry apply in geometry?"}
+{"topic": "geometry", "prompt": "What is the difference between a sphere and a cylinder in three-dimensional space?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a parallelogram and its properties?"}
+{"topic": "geometry", "prompt": "How does the concept of a tetrahedron relate to real-world objects?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a polygon and how it differs from a non-polygonal shape?"}
+{"topic": "geometry", "prompt": "What is the significance of a right-angled triangle in geometry?"}
+{"topic": "geometry", "prompt": "How do we calculate the volume of a cube?"}
+{"topic": "geometry", "prompt": "Can you explain the concept of a prism in three-dimensional geometry?"}
+{"topic": "geometry", "prompt": "What is the difference between a cone and a pyramid?"}
+{"topic": "geometry", "prompt": "Can you elaborate on the concept of a perpendicular line and its importance in geometry?"}

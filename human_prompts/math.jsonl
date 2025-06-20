@@ -1,0 +1,194 @@
+{"topic": "math", "prompt": "How does calculus apply to real-world problems, such as determining the optimal path for a rocket launch?"}
+{"topic": "math", "prompt": "What is the relevance of linear algebra in the field of computer graphics?"}
+{"topic": "math", "prompt": "How is probability used in predicting the outcomes of certain events, like a roulette wheel?"}
+{"topic": "math", "prompt": "What is the significance of complex numbers in electrical engineering, particularly in the context of alternating current?"}
+{"topic": "math", "prompt": "How do mathematical inequalities, like the Bell's inequality, play a role in quantum mechanics?"}
+{"topic": "math", "prompt": "What is the mathematical basis of cryptography in securing online transactions?"}
+{"topic": "math", "prompt": "How do differential equations help in modeling population dynamics in ecology?"}
+{"topic": "math", "prompt": "What is the mathematical concept behind the Fibonacci sequence and its application in nature?"}
+{"topic": "math", "prompt": "How does statistical analysis aid in making informed decisions in business?"}
+{"topic": "math", "prompt": "What are the key mathematical principles used in machine learning algorithms for predictive modeling?"}
+{"topic": "math", "prompt": "What is the solution to the quadratic equation x^2 + 5x + 6 = 0?"}
+{"topic": "math", "prompt": "Can you explain how to calculate the area of a circle given its radius?"}
+{"topic": "math", "prompt": "How do you find the derivative of the function y = x^3?"}
+{"topic": "math", "prompt": "What is the general formula for the nth term of an arithmetic sequence?"}
+{"topic": "math", "prompt": "How do you solve the equation 2x + 3 = 7?"}
+{"topic": "math", "prompt": "Can you explain the Pythagorean theorem?"}
+{"topic": "math", "prompt": "What is the probability of flipping a fair coin and getting heads?"}
+{"topic": "math", "prompt": "How do you calculate the mean of a set of numbers?"}
+{"topic": "math", "prompt": "What is the process of integration and when would you use it?"}
+{"topic": "math", "prompt": "Can you explain the concept of a derivative in calculus and how it is used?"}
+{"topic": "math", "prompt": "\"Can you explain how calculus works, and how it's used in real-life situations?\""}
+{"topic": "math", "prompt": "\"What is a complex number in mathematics, and how does it help us solve equations?\""}
+{"topic": "math", "prompt": "\"What is geometric series, and how does it apply to financial mathematics?\""}
+{"topic": "math", "prompt": "\"Can you explain what vectors are in math, and how are they used in physics?\""}
+{"topic": "math", "prompt": "\"How does probability theory apply to real-life situations, like gambling or weather prediction?\""}
+{"topic": "math", "prompt": "\"Can you explain what is linear algebra, and how is it used in machine learning?\""}
+{"topic": "math", "prompt": "\"What is the Pythagorean theorem, and how is it used in geometry?\""}
+{"topic": "math", "prompt": "\"What is exponential growth, and how does it apply to economics or population studies?\""}
+{"topic": "math", "prompt": "\"Can you explain what a differential equation is, and provide an example of its use?\""}
+{"topic": "math", "prompt": "\"What is topology in mathematics, and how does it relate to the real world?\""}
+{"topic": "math", "prompt": "How do you apply calculus to solve real-world problems, like physics or engineering?"}
+{"topic": "math", "prompt": "What are the key steps in solving a quadratic equation, and why is it important in real-life situations?"}
+{"topic": "math", "prompt": "Can you explain the concept of infinity in mathematics and give an example of where it is used?"}
+{"topic": "math", "prompt": "How is probability used in decision-making processes, and can you give an example?"}
+{"topic": "math", "prompt": "What is linear programming and how is it applied in various fields like business or engineering?"}
+{"topic": "math", "prompt": "Can you explain the concept of differential geometry and how it is used in GPS technology?"}
+{"topic": "math", "prompt": "How are statistics used in medical research to draw reliable conclusions?"}
+{"topic": "math", "prompt": "What is the importance of mathematical induction in proving mathematical theorems?"}
+{"topic": "math", "prompt": "Can you explain the difference between prime numbers and composite numbers?"}
+{"topic": "math", "prompt": "How does the concept of symmetry apply in mathematics and what are some examples of its application in the real world?"}
+{"topic": "math", "prompt": "How does the concept of zero contribute to the foundation of mathematics and its progression?"}
+{"topic": "math", "prompt": "Can you explain the fundamental difference between calculus and algebra?"}
+{"topic": "math", "prompt": "What are the real-life applications of geometric transformations?"}
+{"topic": "math", "prompt": "How do mathematical inequalities help in solving real-world problems?"}
+{"topic": "math", "prompt": "What is the significance of the Pythagorean theorem in architecture?"}
+{"topic": "math", "prompt": "Can you detail the process of solving a quadratic equation?"}
+{"topic": "math", "prompt": "How are the Fibonacci sequence and the golden ratio related to each other?"}
+{"topic": "math", "prompt": "How does the concept of symmetry play a role in mathematics?"}
+{"topic": "math", "prompt": "Can you explain how matrices are used in data representation and processing?"}
+{"topic": "math", "prompt": "What is the role of mathematical induction in proving mathematical theorems?"}
+{"topic": "math", "prompt": "What is the derivative of the sine function?"}
+{"topic": "math", "prompt": "How do you calculate the volume of a sphere?"}
+{"topic": "math", "prompt": "Can you explain the Pythagorean theorem and its application?"}
+{"topic": "math", "prompt": "What is the process of factoring a quadratic equation?"}
+{"topic": "math", "prompt": "How does one find the slope of a line?"}
+{"topic": "math", "prompt": "What is the general solution to a system of linear equations?"}
+{"topic": "math", "prompt": "Can you explain the concept of a limit in calculus?"}
+{"topic": "math", "prompt": "How do you find the roots of a polynomial equation?"}
+{"topic": "math", "prompt": "What is the significance of the Golden Ratio in mathematics?"}
+{"topic": "math", "prompt": "How does the concept of infinity relate to mathematics?"}
+{"topic": "math", "prompt": "\"Can you explain the concept of calculus? How do derivatives and integrals work?\""}
+{"topic": "math", "prompt": "\"What is the Pythagorean theorem and how is it used in real-world applications?\""}
+{"topic": "math", "prompt": "\"Can you give an example of a proof by contradiction in mathematics?\""}
+{"topic": "math", "prompt": "\"What is the difference between a vector and a scalar in mathematics?\""}
+{"topic": "math", "prompt": "\"Can you explain the concept of complex numbers and their importance in mathematics?\""}
+{"topic": "math", "prompt": "\"What are the fundamental differences between discrete and continuous mathematics?\""}
+{"topic": "math", "prompt": "\"Can you explain the concept of functions in mathematics and provide an example?\""}
+{"topic": "math", "prompt": "\"What is the significance of the irrational number pi in mathematics and real-world applications?\""}
+{"topic": "math", "prompt": "\"Can you explain the concept of limits in calculus?\""}
+{"topic": "math", "prompt": "\"How do differential equations apply to real-world problems like population growth or electrical circuits?\""}
+{"topic": "math", "prompt": "Can you explain the concept of zero in mathematics and its significance?"}
+{"topic": "math", "prompt": "How does calculus work and why is it important in understanding how things change?"}
+{"topic": "math", "prompt": "What is the Fundamental Theorem of Algebra and why is it important in understanding polynomials?"}
+{"topic": "math", "prompt": "Can you explain the concept of symmetry in mathematics and its uses?"}
+{"topic": "math", "prompt": "What is the Pythagorean theorem and how is it used in geometry?"}
+{"topic": "math", "prompt": "What are complex numbers and why are they important in mathematics?"}
+{"topic": "math", "prompt": "Can you explain the concept of a derivative in calculus?"}
+{"topic": "math", "prompt": "What is a vector space and why is it important in mathematics?"}
+{"topic": "math", "prompt": "What are prime numbers and why are they significant in number theory?"}
+{"topic": "math", "prompt": "Can you explain the concept of infinity in mathematics and its different types?"}
+{"topic": "math", "prompt": "What is the derivative of the natural logarithm function?"}
+{"topic": "math", "prompt": "How do you prove that a number is prime?"}
+{"topic": "math", "prompt": "Can you explain the concept of mathematical induction?"}
+{"topic": "math", "prompt": "What is the solution to the quadratic equation x^2 + 3x + 2 = 0?"}
+{"topic": "math", "prompt": "What is the Euler's totient function, and how is it used in number theory?"}
+{"topic": "math", "prompt": "How does one approach the problem of proving a conjecture in mathematics?"}
+{"topic": "math", "prompt": "Can you detail the steps to solve a differential equation using separation of variables?"}
+{"topic": "math", "prompt": "What is the concept of symmetry in mathematics?"}
+{"topic": "math", "prompt": "How does the pigeonhole principle work in discrete mathematics?"}
+{"topic": "math", "prompt": "Can you explain the concept of calculus and its importance in physics?"}
+{"topic": "math", "prompt": "How does the Pythagorean theorem work and where is it used in real-world applications?"}
+{"topic": "math", "prompt": "What is a complex number in mathematics and how is it used?"}
+{"topic": "math", "prompt": "What is the significance of the irrational number Pi in mathematics?"}
+{"topic": "math", "prompt": "How does the Fibonacci sequence work and what are its practical applications?"}
+{"topic": "math", "prompt": "What is a vector in mathematics and how is it used?"}
+{"topic": "math", "prompt": "Can you explain the concept of exponential growth and its relevance in population studies?"}
+{"topic": "math", "prompt": "How is probability theory used in real-world scenarios like insurance and finance?"}
+{"topic": "math", "prompt": "What are fractals and how are they used in mathematics and real life?"}
+{"topic": "math", "prompt": "What is the derivative of the function y = x^2?"}
+{"topic": "math", "prompt": "What is the proof of the Pythagorean theorem?"}
+{"topic": "math", "prompt": "How do you solve a system of linear equations using matrices?"}
+{"topic": "math", "prompt": "What is the integral of the function e^(-x^2) over the interval [0, 1]?"}
+{"topic": "math", "prompt": "Can you explain the concept of complex numbers and their operation with real numbers?"}
+{"topic": "math", "prompt": "What is the limit as x approaches infinity of the function 1/x^2?"}
+{"topic": "math", "prompt": "How do you apply the concept of Bernoulli numbers in probability theory?"}
+{"topic": "math", "prompt": "What is the Fundamental Theorem of Calculus?"}
+{"topic": "math", "prompt": "Can you explain the concept of a differential equation and provide an example?"}
+{"topic": "math", "prompt": "What is the derivative of the cosine function, and how is it used in physics?"}
+{"topic": "math", "prompt": "Can you explain the concept of irrational numbers with examples?"}
+{"topic": "math", "prompt": "How does the quadratic formula work, and what are its applications in real-world problems?"}
+{"topic": "math", "prompt": "What is the Pythagorean Theorem, and how is it used in geometry and trigonometry?"}
+{"topic": "math", "prompt": "How does the concept of probability theory apply to real-life situations?"}
+{"topic": "math", "prompt": "Can you explain the concept of a limit in calculus and its significance?"}
+{"topic": "math", "prompt": "How does Euler's formula relate to the exponential and trigonometric functions?"}
+{"topic": "math", "prompt": "Can you explain the concept of a matrix in linear algebra and its uses?"}
+{"topic": "math", "prompt": "Can you explain the concept of symmetry in mathematics and provide examples from different mathematical domains?"}
+{"topic": "math", "prompt": "\"Can you explain how the concept of zero revolutionized mathematics and its impact on various mathematical disciplines?\""}
+{"topic": "math", "prompt": "\"How do the principles of calculus help in solving real-world problems such as calculating the trajectory of a projectile or the growth of a population?\""}
+{"topic": "math", "prompt": "\"What is the importance of linear algebra in understanding the structure of vector spaces, and how does it aid in solving systems of linear equations?\""}
+{"topic": "math", "prompt": "\"Can you elaborate on how probability theory applies to real-life situations such as understanding insurance policies or making decisions in a game of chance?\""}
+{"topic": "math", "prompt": "\"What is the significance of mathematical induction and how does it assist in proving theorems in number theory and algebra?\""}
+{"topic": "math", "prompt": "\"Can you explain the concept of a limit and its importance in defining mathematical functions and their behavior?\""}
+{"topic": "math", "prompt": "\"How does differential geometry apply to our understanding of space and time, particularly in the context of Einstein's theory of General Relativity?\""}
+{"topic": "math", "prompt": "\"What are the applications of probability in the field of statistics and data analysis?\""}
+{"topic": "math", "prompt": "\"Can you explain the concept of a sequence in mathematics and how it is used in defining series and their convergence?\""}
+{"topic": "math", "prompt": "\"How does functional analysis provide insight into the properties of linear transformations and the study of Banach spaces?\""}
+{"topic": "math", "prompt": "What is the derivative of the function f(x) = x^2 + 3x + 1?"}
+{"topic": "math", "prompt": "How do you solve a linear equation like 2x - 5 = 3?"}
+{"topic": "math", "prompt": "Can you explain the concept of a quadratic equation and its solution?"}
+{"topic": "math", "prompt": "What is the probability of rolling two dice and getting a sum of 7?"}
+{"topic": "math", "prompt": "Can you explain the difference between a geometric progression and an arithmetic progression?"}
+{"topic": "math", "prompt": "How do you calculate the area of a triangle given the base and height?"}
+{"topic": "math", "prompt": "Can you explain the concept of prime numbers and the Sieve of Eratosthenes algorithm?"}
+{"topic": "math", "prompt": "How do you solve a system of linear equations?"}
+{"topic": "math", "prompt": "Can you explain the concept of absolute value and how to find its square root?"}
+{"topic": "math", "prompt": "How do you calculate the variance of a set of numbers?"}
+{"topic": "math", "prompt": "Can you explain the concept of a derivative in calculus and why it's important in understanding functions?"}
+{"topic": "math", "prompt": "How does the Pythagorean theorem work and how is it applied in real-world problems?"}
+{"topic": "math", "prompt": "Can you explain the concept of a matrix in algebra and its applications?"}
+{"topic": "math", "prompt": "How does the concept of probability work and what are some real-world applications of it?"}
+{"topic": "math", "prompt": "What is the concept of symmetry in mathematics and how does it relate to transformations?"}
+{"topic": "math", "prompt": "Can you explain the concept of exponential growth and decay in mathematical modeling?"}
+{"topic": "math", "prompt": "What are the key differences between a linear function and a quadratic function?"}
+{"topic": "math", "prompt": "How does the concept of a geometric series work and where can it be applied in real life?"}
+{"topic": "math", "prompt": "Can you explain the concept of a logarithm and how it's used in real-world applications?"}
+{"topic": "math", "prompt": "What is the concept of congruence in geometry and how is it applied in various mathematical and real-world scenarios?"}
+{"topic": "math", "prompt": "Can you explain the concept of derivatives in calculus and how they are used in real-world applications?"}
+{"topic": "math", "prompt": "What is the significance of the Pythagorean theorem in mathematics and geometry?"}
+{"topic": "math", "prompt": "Can you explain the concept of eigenvalues and eigenvectors in linear algebra?"}
+{"topic": "math", "prompt": "How does the concept of mathematical induction work in number theory?"}
+{"topic": "math", "prompt": "Can you describe the basic principle of probability theory and its applications?"}
+{"topic": "math", "prompt": "What are the fundamental differences between Euclidean and non-Euclidean geometries?"}
+{"topic": "math", "prompt": "How does the concept of group theory apply in abstract algebra?"}
+{"topic": "math", "prompt": "Can you explain the basics of differential equations and their significance?"}
+{"topic": "math", "prompt": "How does the concept of prime numbers affect the security of online transactions?"}
+{"topic": "math", "prompt": "What is the role of matrix operations in solving systems of linear equations?"}
+{"topic": "math", "prompt": "How does calculus help us understand the physical world?"}
+{"topic": "math", "prompt": "How is probability theory applied in real-world scenarios?"}
+{"topic": "math", "prompt": "What is the significance of prime numbers?"}
+{"topic": "math", "prompt": "Can you provide a detailed explanation of linear algebra?"}
+{"topic": "math", "prompt": "How do eigenvalues and eigenvectors work in solving systems of linear differential equations?"}
+{"topic": "math", "prompt": "Can you explain the concept of mathematical expectation?"}
+{"topic": "math", "prompt": "How does game theory apply to real-world problems?"}
+{"topic": "math", "prompt": "What is the significance of the irrational numbers in mathematics?"}
+{"topic": "math", "prompt": "Can you explain the concept of Bayesian inference?"}
+{"topic": "math", "prompt": "How does calculus help in solving real-world problems like determining the trajectory of a projectile in physics?"}
+{"topic": "math", "prompt": "Can you explain the concept of vectors and their applications in physics, such as in the study of forces and motion?"}
+{"topic": "math", "prompt": "What is the significance of the number e in mathematics and how is it related to compound interest in finance?"}
+{"topic": "math", "prompt": "What is the purpose of the binomial theorem and how is it applied in statistics?"}
+{"topic": "math", "prompt": "How does the Pythagorean theorem apply to the geometry of right-angled triangles and what are its uses in trigonometry?"}
+{"topic": "math", "prompt": "What is the role of imaginary numbers in solving equations that do not have real solutions?"}
+{"topic": "math", "prompt": "How does linear algebra help in understanding and solving systems of equations?"}
+{"topic": "math", "prompt": "What is the significance of probability theory in decision-making and how is it used in statistics?"}
+{"topic": "math", "prompt": "How does differential equations help in modeling and solving problems in physics, biology, and economics?"}
+{"topic": "math", "prompt": "Can you explain the concept of geometric series and how it is used in calculus?"}
+{"topic": "math", "prompt": "Can you explain the concept of derivatives and how they are used in real-world applications?"}
+{"topic": "math", "prompt": "How does the Pythagorean theorem relate to the geometry of a right-angled triangle?"}
+{"topic": "math", "prompt": "Can you give an example of how the concept of infinity is used in calculus?"}
+{"topic": "math", "prompt": "How does the Fundamental Theorem of Calculus connect the derivative of a function with the area under the curve of the function?"}
+{"topic": "math", "prompt": "What is the significance of the irrational number pi in mathematics?"}
+{"topic": "math", "prompt": "Can you explain the concept of linear regression and how it is used in predictive analytics?"}
+{"topic": "math", "prompt": "How does the Fibonacci sequence apply in real-world situations or mathematical problems?"}
+{"topic": "math", "prompt": "What are the main differences between algebra, geometry, and calculus?"}
+{"topic": "math", "prompt": "How do mathematical constants like Euler's number, pi, and the square root of 2 appear in real-world problems?"}
+{"topic": "math", "prompt": "Can you describe how the concept of symmetry is used in group theory and how it relates to real-world phenomena?"}
+{"topic": "math", "prompt": "Can you explain the concept of calculus and how it applies to real-world problems?"}
+{"topic": "math", "prompt": "How does the Pythagorean theorem work and when is it used?"}
+{"topic": "math", "prompt": "Can you explain the difference between linear, quadratic, and exponential functions?"}
+{"topic": "math", "prompt": "What are prime numbers and why are they important in mathematics?"}
+{"topic": "math", "prompt": "Can you explain the concept of a derivative and its significance in calculus?"}
+{"topic": "math", "prompt": "Can you explain the concept of a limit in mathematics?"}
+{"topic": "math", "prompt": "What is the Fermat's Last Theorem and why is it significant?"}
+{"topic": "math", "prompt": "Can you explain the concept of geometric series?"}
+{"topic": "math", "prompt": "What is a matrix and how is it used in mathematics and other fields?"}
