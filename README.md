@@ -7,6 +7,10 @@ A fun little experiment to make a bitnet-based llm that talks like a dog who bel
 
 Currently, the model is about 133M parameters.
 
+Credit: There's not a ton of unique thought that went into this. I thought this paper from Microsoft (https://arxiv.org/html/2504.12285v2) was nifty and wanted to see what I could do locally. 
+
+This project is strictly about curiosity and not really useful for any real-life purpose beyond amusement and learning.
+
 # corpus
 
 In pre-training, used the cosmopedia-v2 from 
