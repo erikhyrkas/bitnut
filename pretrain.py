@@ -11,7 +11,7 @@ from transformers import (
 )
 
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "true"
-os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
+# os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
 
 def main():

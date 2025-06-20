@@ -5,6 +5,8 @@
 
 A fun little experiment to make a bitnet-based llm that talks like a dog who believes the world is run by squirrels.
 
+Currently, the model is about 133M parameters.
+
 # corpus
 
 In pre-training, used the cosmopedia-v2 from 
@@ -17,13 +19,17 @@ Just took the design from here and stripped it down to an even smaller model: ht
 # setup
 
 PyTorch with cuda support:
+
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 Bitnet's transformers (https://github.com/shumingma/transformers):
+
 pip3 install git+https://github.com/shumingma/transformers.git
 
+additional installs:
 
 pip3 install hf_xet
+
 pip3 install -r requirements.txt
 
 
