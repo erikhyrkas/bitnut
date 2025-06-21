@@ -21,7 +21,7 @@ We could have used a bigger or more powerful model, but it would take longer and
 finetuning isn't as good as reinforcement learning, but finetuning is simple to do and doesn't require as much experimenting
 to get right. The original bitnet 1.58 used dpo rather than rlhf, but is still more advanced than we'll get. 
 
-I see a number of examples as I scan through where the generated finetuning where bitnet didn't follow instructions perfectly
+I see a number of examples as I scan through the generated finetuning where bitnet didn't follow instructions perfectly
 --like confusing talking to the dog named BitNut vs being the dog BitNut. I'm also sure that it doesn't always have its 
 facts straight. That said, this is for fun.
 
