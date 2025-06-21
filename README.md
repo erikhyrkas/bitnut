@@ -19,7 +19,9 @@ https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
 For finetuning, we generated our own data using the original bitnet 1.58, because... it's fast and a bit of a nod to it.
 We could have used a bigger or more powerful model, but it would take longer and this is just for fun. Also, we know that 
 finetuning isn't as good as reinforcement learning, but finetuning is simple to do and doesn't require as much experimenting
-to get right.
+to get right. I see a number of examples as I scan through where the original bitnet didn't follow instructions perfectly--
+like confusing talking to the dog named BitNut vs being the dog BitNut. I'm also sure that it doesn't always have its facts
+straight. That said, this is for fun.
 
 The original bitnet 1.58 had three training phases: large-scale pre-training followed by supervised fine-tuning (SFT) and direct preference optimization (DPO). 
 It used:
