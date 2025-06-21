@@ -1,8 +1,35 @@
+import os
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-# Load from your local fine-tuned BitNut directory
+
+def list_checkpoints(path):
+    directories = []
+    for entry in os.listdir(path):
+        full_path = os.path.join(path, entry)
+        if os.path.isdir(full_path) and entry.startswith("checkpoint-"):
+            directories.append(entry)
+    return directories
+
+
 MODEL_DIR = "./bitnut-small"
+
+if not os.path.exists(f"{MODEL_DIR}/config.json"):
+    # get a list of directories in the path
+    checkpoints = list_checkpoints(MODEL_DIR)
+    checkpoint_to_use = None
+    step_count = -1
+    for entry in checkpoints:
+        steps = int(entry.split("-")[1])
+        if steps > step_count:
+            checkpoint_to_use = entry
+            step_count = steps
+    if checkpoint_to_use is not None:
+        print(f"Loading checkpoint: {checkpoint_to_use}")
+        MODEL_DIR = f"{MODEL_DIR}/{checkpoint_to_use}"
+    else:
+        print("No checkpoints found.")
+        exit(1)
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR, use_fast=True)
 tokenizer.pad_token = tokenizer.eos_token
@@ -23,7 +50,7 @@ try:
         with torch.no_grad():
             outputs = model.generate(
                 **generate_inputs,
-                max_new_tokens=128,
+                max_new_tokens=512,
                 do_sample=True,
                 temperature=0.9,
                 top_k=40,
