@@ -108,7 +108,7 @@ def main():
 
     # In the interest of time to train, I'm only using 5 billion training tokens, which might be enough.
     # The paper this is based on uses A LOT more tokens for there 110 million parameter version. We have
-    # more tokens in available in our dataset, but if 5 billion is terrible, using 3 epochs might still
+    # more tokens available in our dataset, but if 5 billion is terrible, using 3 epochs might still
     # be good enough -- though, realistically, I think just taking 15 billion or 20 billion from the
     # original dataset would have been better. I just know that that's a month of training, and I'm
     # maybe being a little optimistic that I can stop at 5 billion.
