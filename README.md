@@ -57,8 +57,6 @@ pip3 install git+https://github.com/shumingma/transformers.git
 
 additional installs:
 
-pip3 install hf_xet
-
 pip3 install -r requirements.txt
 
 
