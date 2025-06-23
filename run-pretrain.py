@@ -41,7 +41,7 @@ print("🐾 BitNut base is ready. Type text to be completed. Ctrl+C to exit.")
 
 try:
     while True:
-        user_input = input("\nComplete: ")
+        user_input = input("\nComplete: ").strip()
 
         inputs = tokenizer(user_input, return_tensors="pt").to(model.device)
 
