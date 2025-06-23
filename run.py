@@ -6,7 +6,8 @@ MODEL_DIR = "./bitnut-small-finetuned"
 tokenizer = AutoTokenizer.from_pretrained("./bitnut-tokenizer")
 tokenizer.pad_token = tokenizer.eos_token
 
-model = AutoModelForCausalLM.from_pretrained(MODEL_DIR).to("cuda" if torch.cuda.is_available() else "cpu")
+dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float32
+model = AutoModelForCausalLM.from_pretrained(MODEL_DIR, torch_dtype=dtype).to("cuda" if torch.cuda.is_available() else "cpu")
 model.eval()
 
 print("🐾 BitNut is ready to chase squirrels. Ask your questions. CTRL+C to stop.")
