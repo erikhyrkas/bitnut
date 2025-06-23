@@ -34,7 +34,8 @@ if not os.path.exists(f"{MODEL_DIR}/config.json"):
 tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR, use_fast=True)
 tokenizer.pad_token = tokenizer.eos_token
 
-model = AutoModelForCausalLM.from_pretrained(MODEL_DIR).to("cuda" if torch.cuda.is_available() else "cpu")
+dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float32
+model = AutoModelForCausalLM.from_pretrained(MODEL_DIR, torch_dtype=dtype).to("cuda" if torch.cuda.is_available() else "cpu")
 model.eval()
 
 print("🐾 BitNut base is ready. Type text to be completed. Ctrl+C to exit.")
