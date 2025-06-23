@@ -37,11 +37,11 @@ tokenizer.pad_token = tokenizer.eos_token
 model = AutoModelForCausalLM.from_pretrained(MODEL_DIR).to("cuda" if torch.cuda.is_available() else "cpu")
 model.eval()
 
-print("🐾 BitNut is ready. Ask me anything. Ctrl+C to exit.")
+print("🐾 BitNut base is ready. Type text to be completed. Ctrl+C to exit.")
 
 try:
     while True:
-        user_input = input("\nYou: ")
+        user_input = input("\nComplete: ")
 
         inputs = tokenizer(user_input, return_tensors="pt").to(model.device)
 
@@ -60,7 +60,7 @@ try:
 
         # Extract response (skip prompt)
         response = tokenizer.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True)
-        print(f"BitNut: {response}")
+        print(response)
 
 except KeyboardInterrupt:
     print("\n👋 Goodbye. Stay vigilant — the squirrels are watching.")
